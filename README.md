@@ -34,7 +34,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fphotos%2Flogo.html&psig=AOvVaw04qvJQZ1BrhyggoISwBG-h&ust=1719485381940000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC-_6yM-YYDFQAAAAAdAAAAABAE" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -243,10 +243,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-
-<!-- [product-screenshot]: images/screenshot.png -->
-
-[product-screenshot]: https://www.google.com/imgres?q=bank%20api%20project%20screenshot%20image&imgurl=https%3A%2F%2Fmedia.dashdevs.com%2Fimages%2FAPI%2520in%2520Banking_%2520Classification.jpg&imgrefurl=https%3A%2F%2Fdashdevs.com%2Fblog%2Fapi-in-banking-classification%2F&docid=33dlEJdqdHBYfM&tbnid=gnpnmwZ8TKOuPM&vet=12ahUKEwjdzcDejPmGAxVOk1YBHUsdC8sQM3oECBoQAA..i&w=4230&h=2379&hcb=2&ved=2ahUKEwjdzcDejPmGAxVOk1YBHUsdC8sQM3oECBoQAA
+[product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
