@@ -59,7 +59,6 @@ func (s *PostgresStore) CreateAccount(acc *Account) error {
 	if err != nil {
 		return err
 	}
-
 	fmt.Printf("%+v\n", resp)
 
 	return nil
@@ -97,7 +96,6 @@ func (s *PostgresStore) GetAccounts() ([]*Account, error) {
 		if err != nil {
 			return nil, err
 		}
-
 		accounts = append(accounts, account)
 	}
 
