@@ -83,7 +83,7 @@ func (s *PostgresStore) GetAccountByID(id int) (*Account, error) {
 		return scanIntoAccount(rows)
 	}
 
-	return nil, fmt.Errorf("account %d not found", id)
+	return nil, fmt.Errorf("account with id:%d not found", id)
 }
 
 func (s *PostgresStore) GetAccounts() ([]*Account, error) {
